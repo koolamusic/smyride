@@ -2114,7 +2114,7 @@ a {
   }
 
   .button.nav.hide-on-mobile {
-    display: none;
+    display: block;
   }
 
   .nav-link.about-open {
